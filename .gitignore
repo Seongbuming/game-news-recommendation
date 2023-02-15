@@ -1,0 +1,10 @@
+__*__/
+.*/
+data/
+config.py
+
+build/
+*.egg-info/
+dist/
+
+.DS_Store
